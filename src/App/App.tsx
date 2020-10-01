@@ -1,5 +1,4 @@
 import React, { FunctionComponent, useState, useCallback, useEffect, useMemo } from 'react';
-import { Button } from 'semantic-ui-react';
 import includes from 'lodash/includes';
 import isEmpty from 'lodash/isEmpty';
 
